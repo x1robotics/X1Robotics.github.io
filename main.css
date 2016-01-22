@@ -72,7 +72,7 @@ h1,h2
     padding: 6px 15px;
     text-decoration: none;
     font-weight: bold;
-    color:rgb(102,178,255);
+    color:rgb(0,100,200);
     transition: color 1s,font-size 1s;
 
 }
@@ -81,7 +81,7 @@ h1,h2
     #nav li a
     {
         border-right: 1px solid #ccc;
-        color: #069;
+        color:rgb(102,178,255);
     }
 }
 
